@@ -1,6 +1,5 @@
 -- ============================================
 -- Introduction to SQL and Databases
--- Author: Shivansh Yadav
 -- Database: MySQL
 -- ============================================
 
@@ -98,3 +97,4 @@ INSERT INTO employees_v2 VALUES
 -- Invalid insert (fails due to duplicate email)
 INSERT INTO employees_v2 VALUES
 (2, 'Rohit2', 'rohit@gmail.com', 'HR', 55000);
+
